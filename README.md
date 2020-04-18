@@ -1,5 +1,3 @@
-# hardware/rainloop
-
 ![](https://i.goopics.net/nI.png)
 
 ### What is this ?
@@ -50,4 +48,7 @@ rainloop:
 
 #### How to setup
 
-https://github.com/hardware/mailserver/wiki/Rainloop-initial-configuration
+Rainloop-initial-configuration.md
+
+## cloned from
+hardware/rainloop
